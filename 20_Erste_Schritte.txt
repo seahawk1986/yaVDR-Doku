@@ -1,0 +1,10 @@
+[[first-steps]]
+=== Erste Schritte ===
+
+Ist yaVDR gestartet, kann es weitgehend über das Webfrontend konfiguriert werden.
+
+****
+.TODO
+Tastenbelegung Tastatur
+Grundlegende Bedienung des OSD
+****
